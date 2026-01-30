@@ -45,19 +45,8 @@ I'm a Chemical Engineer with a MBA in Project Management focused on agile method
 
 #
 
-### 🌟 Highlighted Projects
+### 🌟 My Portfolio (WIP... Not working Yet)
 
-Aqui estão alguns dos meus projetos favoritos que merecem destaque:
+Here you’ll find some of the projects I’ve been working on.
 
-### 🔹 [Análise de Produtos de Supermercado](https://github.com/kOlfZz/kOlfZz/blob/main/Profissao_Cientista_de_Dados_M13_Projeto.ipynb)
-Um projeto obrigatório para a conclusão do módulo de Estatística Básica da EBAC. Nesse estudo de caso hipotético foi 
-utilizado funções básicas de estatísticas e ferramentas de DataVisualization para retirar insights a respeito de produtos
-de um supermercado do Chile.
-
-<!--
-### 🔹 [Nome do Projeto 2](https://github.com/seu-usuario/projeto2)
-Outra descrição breve destacando funcionalidades ou tecnologias usadas.
-
-### 🔹 [Nome do Projeto 3](https://github.com/seu-usuario/projeto3)
-Mais um projeto incrível que você quer mostrar ao mundo!
--->
+###  [Portfolio](https://github.com/jooarantes/my-portfolio)
