@@ -7,7 +7,7 @@
 
 **`Engenheiro e Cientista de Dados | MLOps`**
 
-Olá, eu sou um cientista de dados com um MBA em gestão de projetos focada em metodoligas ágeis (SCRUM). Atualmente, estou me aventurando no universo da engenharia de dados. Você poderá encontrar alguns dos meus melhores projetos que desenvolvi como estudante aqui abaixo. Sinta-se à vontade para me dar alguns feedbacks e se conectar comigo!
+Olá, eu sou um cientista de dados com MBA em gestão de projetos focada em metodologias ágeis (SCRUM). Atualmente, estou me aventurando no universo da engenharia de dados para expandir os meus conhecimentos no ciclo de vida dos modelos de Machine Learning. Você poderá encontrar alguns dos meus melhores projetos que desenvolvi como estudante nos meus repositórios. Sinta-se à vontade para me dar feedbacks e se conectar comigo!
 #
 
 <p align="center">
@@ -44,8 +44,10 @@ Olá, eu sou um cientista de dados com um MBA em gestão de projetos focada em m
 
 #
 
+<!--
 ### 🌟 Meu Portfólio (Em Construção)
 
 Aqui você encontrará alguns dos meus melhores projetos que desenvolvi =)
 
 ###  [Portfolio](https://github.com/jooarantes/my-portfolio)
+-->
