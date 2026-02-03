@@ -44,10 +44,10 @@ Olá, eu sou um cientista de dados com MBA em gestão de projetos focada em meto
 
 #
 
-<!--
+
 ### 🌟 Meu Portfólio (Em Construção)
 
 Aqui você encontrará alguns dos meus melhores projetos que desenvolvi =)
 
-###  [Portfolio](https://github.com/jooarantes/my-portfolio)
--->
+###  [Portfolio](https://jooarantes.github.io/)
+
