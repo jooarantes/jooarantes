@@ -5,10 +5,9 @@
 **kOlfZz/kOlfZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-**`Data Engineer & Scientist Student`**
+**`Engenheiro e Cientista de Dados | MLOps`**
 
-I'm a Chemical Engineer with a MBA in Project Management focused on agile methodology (SCRUM). Right now, i'm adventuring into DataScience universe studying at EBAC. You can find some of my best projects as a student down below. Be welcome to give me some feedbacks and connect with me.
-
+Olá, eu sou um cientista de dados com um MBA em gestão de projetos focada em metodoligas ágeis (SCRUM). Atualmente, estou me aventurando no universo da engenharia de dados. Você poderá encontrar alguns dos meus melhores projetos que desenvolvi como estudante aqui abaixo. Sinta-se à vontade para me dar alguns feedbacks e se conectar comigo!
 #
 
 <p align="center">
@@ -31,7 +30,7 @@ I'm a Chemical Engineer with a MBA in Project Management focused on agile method
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Tecnologias e Ferramentas
 <!-- Languages and Tools section -->
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" />
@@ -45,8 +44,8 @@ I'm a Chemical Engineer with a MBA in Project Management focused on agile method
 
 #
 
-### 🌟 My Portfolio (WIP... Not working Yet)
+### 🌟 Meu Portfólio (Em Construção)
 
-Here you’ll find some of the projects I’ve been working on.
+Aqui você encontrará alguns dos meus melhores projetos que desenvolvi =)
 
 ###  [Portfolio](https://github.com/jooarantes/my-portfolio)
