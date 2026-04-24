@@ -5,9 +5,9 @@
 **kOlfZz/kOlfZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-**`Engenheiro e Cientista de Dados | MLOps`**
+**`Engenheiro ML e Cientista de Dados`**
 
-Olá, eu sou um cientista de dados com MBA em gestão de projetos focada em metodologias ágeis (SCRUM). Atualmente, estou me aventurando no universo da engenharia de dados para expandir os meus conhecimentos no ciclo de vida dos modelos de Machine Learning. Você poderá encontrar alguns dos meus melhores projetos que desenvolvi como estudante nos meus repositórios. Sinta-se à vontade para me dar feedbacks e se conectar comigo!
+Olá, eu sou um cientista de dados com MBA em gestão de projetos focada em metodologias ágeis (SCRUM). Atualmente, estou me especializando em engenharia de machine learning para expandir os meus conhecimentos no ciclo de vida dos modelos. Você poderá encontrar alguns dos meus melhores projetos que desenvolvi como estudante nos meus repositórios. Sinta-se à vontade para me dar feedbacks e se conectar comigo!
 #
 
 <p align="center">
